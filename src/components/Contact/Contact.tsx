@@ -14,7 +14,7 @@ export const Contact = () => {
           Email us at{" "}
           <a href="#" className="text-[#c23631]">
             support@sponge.io
-          </a>{" "}
+          </a>{"  "}
           for any <br /> queries or support
         </p> */}
         <div className="flex pb-[48px] justify-center gap-x-6 mt-[28px]">
